@@ -26,7 +26,7 @@ let handler = async (m, { isPrems, conn }) => {
 ║ 🎁 *.masc* ┊ Recompensas  
 ╚════════════════╝  
 
-> @alexnsnk7`
+> @lino_h4ack`
 
 	const fkontak = {
 		"key": {
